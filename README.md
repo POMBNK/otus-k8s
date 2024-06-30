@@ -47,7 +47,7 @@ RESPONSE: {"status": "OK"}
     git clone https://github.com/POMBNK/otus-k8s && cd otus-k8s
 ``` 
 
-2. Запустить Minikube
+2. Запустить Minikube (предварительно запусть docker desktop, если он уже установлен в системе)
 ```shell
     make start
 ```
